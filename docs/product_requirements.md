@@ -48,11 +48,15 @@ A mobile-first web application that serves as a shared contact book for friends,
    - Rate limiting testing
    - Authentication flow testing
 
+6. User Interface
+   - Main navigation layout
+   - Dashboard page
+   - Profile page
+
 ### In Progress 🚧
 1. User Interface (High Priority)
-   - Main navigation layout
-   - Profile page
    - Contact list view
+   - Availability management interface
 
 ### Pending Tasks 📝
 
