@@ -55,13 +55,19 @@ A mobile-first web application that serves as a shared contact book for friends,
    - Contacts page
    - Availability management interface
 
-### In Progress 🚧
-1. Friend Connection System (High Priority)
+7. Friend Connection System API
    - Send friend requests
    - Accept/reject friend requests
    - View pending requests
    - Remove friends
-   - Friend list management
+   - Search users to add as friends
+
+### In Progress 🚧
+1. Friend Connection System UI (High Priority)
+   - Friend request UI
+   - Friend list display
+   - User search interface
+   - Connection management interface
 
 ### Pending Tasks 📝
 
