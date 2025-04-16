@@ -52,14 +52,10 @@ A mobile-first web application that serves as a shared contact book for friends,
    - Main navigation layout
    - Dashboard page
    - Profile page
-
-### In Progress 🚧
-1. User Interface (High Priority)
-   - Contact list view
+   - Contacts page
    - Availability management interface
 
-### Pending Tasks 📝
-
+### In Progress 🚧
 1. Friend Connection System (High Priority)
    - Send friend requests
    - Accept/reject friend requests
@@ -67,25 +63,27 @@ A mobile-first web application that serves as a shared contact book for friends,
    - Remove friends
    - Friend list management
 
-2. Contact Information Management (High Priority)
+### Pending Tasks 📝
+
+1. Contact Information Management (High Priority)
    - Edit personal information
    - View friend information
    - Custom fields creation and management
    - Information privacy controls
 
-3. Availability System (Medium Priority)
+2. Availability System (Medium Priority)
    - Weekly schedule management
    - Manual availability override
    - Availability status display
    - Time slot selection interface
 
-4. Location Features (Medium Priority)
+3. Location Features (Medium Priority)
    - Current location updates
    - Map view of friends
    - Location history
    - Location privacy settings
 
-5. Notification System (Low Priority)
+4. Notification System (Low Priority)
    - Real-time updates
    - Notification center
    - Notification preferences
